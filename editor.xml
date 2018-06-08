@@ -3,4 +3,11 @@
     <option name="FONT_SCALE" value="1.25" />
     <option name="SECONDARY_FONT_FAMILY" value="Ubuntu Mono" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
